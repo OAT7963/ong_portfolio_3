@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OAT | Portfolio</title>
+    <link>https://OAT7963.github.io/ong_portfolio_3/</link>
+    <description>Recent content on OAT | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 12:14:34 +0600</lastBuildDate>
+    
+	<atom:link href="https://OAT7963.github.io/ong_portfolio_3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Malaysian Cinema Consumer Behavior Analysis using Python</title>
+      <link>https://OAT7963.github.io/ong_portfolio_3/blog/cinema.2/</link>
+      <pubDate>Sun, 10 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://OAT7963.github.io/ong_portfolio_3/blog/cinema.2/</guid>
+      <description>Project Motivation     The motivation of the project is to understand more about the movie goers in Malaysia, get some insights from it, and to improve my data analysis/manipulation skill set using Python.</description>
+    </item>
+    
+    <item>
+      <title>Chatbot AI using Neural Networks - Education pathways in Malaysia</title>
+      <link>https://OAT7963.github.io/ong_portfolio_3/blog/chatbot/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://OAT7963.github.io/ong_portfolio_3/blog/chatbot/</guid>
+      <description>Introduction and Project Motivation     Currently, there is no easily-accessible platform for high schoolers to obtain information about all the courses being offered across different universities in Malaysia.</description>
+    </item>
+    
+    <item>
+      <title>Microplastics - A Text Mining Approach using R</title>
+      <link>https://OAT7963.github.io/ong_portfolio_3/blog/microplastic.1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://OAT7963.github.io/ong_portfolio_3/blog/microplastic.1/</guid>
+      <description>Introduction     Plastic benefits society in many ways, ranging from enabling the production of durable goods used in consumers’ daily life to contributing to medical advances (Thompson et al.</description>
+    </item>
+    
+  </channel>
+</rss>
